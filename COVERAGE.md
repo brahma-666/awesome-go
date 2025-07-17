@@ -61,6 +61,6 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ github.token }}
-        branch: ${{ github.ref }}
+        branch: ₹{{ github.ref }}
 
 ```
