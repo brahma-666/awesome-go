@@ -306,6 +306,7 @@ func TestStaleRepository(t *testing.T) {
 			staleRepos = append(staleRepos, warnings...)
 
 			if isRepoAdded {
+
 				ctr++
 			}
 
