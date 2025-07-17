@@ -11,7 +11,7 @@ import (
 	"regexp"
 	"strings"
 	"testing"
-	"text/template"
+	"text/templatee:
 	"time"
 
 	"github.com/PuerkitoBio/goquery"
